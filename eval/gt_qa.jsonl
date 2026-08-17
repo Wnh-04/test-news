@@ -1,0 +1,20 @@
+{"id": 1, "question": "宁德时代矿山停产对锂市场有什么影响?", "expect_type": "news", "expected_doc_ids": ["e0194ff2f90e684d"]}
+{"id": 2, "question": "铜价为什么接近历史高位?", "expect_type": "news", "expected_doc_ids": ["dd5211a29518799e"]}
+{"id": 3, "question": "智利铜矿生产遇到了什么困难?", "expect_type": "news", "expected_doc_ids": ["13983b0871d4eab7", "650d4ad30bc3b268", "d703e4b5d70abea1", "017080e74dcf5340"], "match": "any", "note": "开放性问题，多篇智利铜矿文档均为合理答案"}
+{"id": 4, "question": "Codelco的El Teniente矿发生了什么?", "expect_type": "news", "expected_doc_ids": ["650d4ad30bc3b268"]}
+{"id": 5, "question": "NexGen的铀矿项目投资规模有多大?", "expect_type": "news", "expected_doc_ids": ["7c7ebf81fa317569"]}
+{"id": 6, "question": "委内瑞拉的黄金储备有什么新闻?", "expect_type": "news", "expected_doc_ids": ["294e9a24915a0057"]}
+{"id": 7, "question": "Faraday在亚利桑那的铜矿项目资源量多大?", "expect_type": "news", "expected_doc_ids": ["d4acc8dfa09f7c12"]}
+{"id": 8, "question": "稀土管理条例是哪一年发布的主要内容是什么?", "expect_type": "policy", "expected_doc_ids": ["3b11f8c9d78856cc"]}
+{"id": 9, "question": "矿产资源法实施条例什么时候发布?", "expect_type": "policy", "expected_doc_ids": ["6305d3160e7df1ea"]}
+{"id": 10, "question": "连云港稀土走私案的真相是什么?", "expect_type": "policy", "expected_doc_ids": ["9474124a3605b7a9"]}
+{"id": 11, "question": "7月有多少铜运抵美国?和关税有什么关系?", "expect_type": "policy", "expected_doc_ids": ["b1afcdaea4f67a1f"]}
+{"id": 12, "question": "SMM新增了哪些稀土行业价格点?", "expect_type": "policy", "expected_doc_ids": ["b2bfe94acb40017b"]}
+{"id": 13, "question": "矿产资源权益金制度改革方案的内容?", "expect_type": "policy", "expected_doc_ids": ["ce2ed91d812d579f"]}
+{"id": 14, "question": "近30天LME铜价格走势如何?", "expect_type": "price", "expected_doc_ids": ["0643e3e8100573a6"]}
+{"id": 15, "question": "碳酸锂最近价格怎么样?", "expect_type": "price", "expected_doc_ids": ["31e5a13f3ac74668"]}
+{"id": 16, "question": "铁矿石最近行情如何?", "expect_type": "price", "expected_doc_ids": ["d6c3202449d56de0"]}
+{"id": 17, "question": "LME镍最近的价格表现如何?", "expect_type": "price", "expected_doc_ids": ["590d51d9740f063b"]}
+{"id": 18, "question": "上周LME锌表现怎么样?", "expect_type": "price", "expected_doc_ids": ["ddaac4c8c9de7d1f"]}
+{"id": 19, "question": "近7天锂市场有什么重要新闻?", "expect_type": "rag", "expected_doc_ids": ["e0194ff2f90e684d"]}
+{"id": 20, "question": "黄金价格创了什么新高?", "expect_type": "rag", "expected_doc_ids": ["4a3747e1a3a430fa"]}
